@@ -64,8 +64,8 @@
 				B84E029D2890486800D6767D /* GameScene.swift */,
 				B84E029F2890486800D6767D /* GameViewController.swift */,
 				B84E02A12890486800D6767D /* Main.storyboard */,
-				B84E02A42890486D00D6767D /* Assets.xcassets */,
 				B84E02A62890486D00D6767D /* LaunchScreen.storyboard */,
+				B84E02A42890486D00D6767D /* Assets.xcassets */,
 				B8F45264289565890003D3F6 /* FireParticles.sks */,
 			);
 			path = Project11;
